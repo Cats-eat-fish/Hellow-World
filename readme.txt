@@ -6,3 +6,4 @@ add second
 add third
 add once
 add second
+add third
